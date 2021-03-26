@@ -5,7 +5,7 @@
 
 ### Get Emails
 
-You can build an SES Lambda email forwarder in AWS to forward to your gmail [source](https://twitter.com/Creasy74/status/1374089515619426304?s=20)
+- You can build an SES Lambda email forwarder in AWS to forward to your gmail [source](https://twitter.com/Creasy74/status/1374089515619426304?s=20)
 
 ### Send Emails
 
@@ -14,6 +14,10 @@ You can build an SES Lambda email forwarder in AWS to forward to your gmail [sou
 ### Company Email box
 
 - Get and Receive emails from withyour domain name with [Zoho](https://zoho.eu)
+
+### Customer aquisition
+
+- You can create an HTML form on [mailchimp](https://mailchimp.com) and get users email addresses immediately
 
 ## Terms
 
