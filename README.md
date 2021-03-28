@@ -1,5 +1,10 @@
 
 # Awesome list to create a SaaS project
+## Images
+
+- Open Source images [undraw](https://undraw.co/)
+
+- Free images [vecteezy](https://www.vecteezy.com/)
 
 ## Emails
 
@@ -13,7 +18,7 @@
 
 ### Company Email box
 
-- Get and Receive emails from withyour domain name with [Zoho](https://zoho.eu)
+- Send and Receive emails with your domain name. [Zoho](https://zoho.eu)
 
 ### Customer aquisition
 
