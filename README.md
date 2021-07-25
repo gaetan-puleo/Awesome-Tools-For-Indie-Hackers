@@ -1,5 +1,5 @@
-
 # Awesome list to create a SaaS project
+
 ## Images
 
 - Open Source images [undraw](https://undraw.co/)
@@ -28,7 +28,17 @@
 
 - Generate your terms and conditions with [Termly](https://termly.io)
 
+## Seo tools
 
+- SEO crawler and audit tools[Screaming frog](https://www.screamingfrog.co.uk/seo-spider/) 
+
+- yooda insight (market explorer tab) [yooda](https://insight.yooda.com/)
+
+- Google adwords
+
+- Get ideas for blog posts [Answer the public](https://answerthepublic.com/) 
+
+- Get ideas for blog posts again [Also Asked](https://alsoasked.com/)
 ## Deployments
 
 - Create your next web project in your browser with no setup and we'll instantly deploy it. [glitch](https://glitch.com/)
@@ -37,3 +47,6 @@
 
 - Deploy your serverless app faster with [netlify](https://www.netlify.com/)
 
+## Others tools lists
+
+You can find a lot of tools on [serverless by csstricks](https://serverless.css-tricks.com/)
